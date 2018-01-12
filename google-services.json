@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "821705159877",
+    "firebase_url": "https://mi-pata-app.firebaseio.com",
+    "project_id": "mi-pata-app",
+    "storage_bucket": "mi-pata-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821705159877:android:57b766d03232df8c",
+        "android_client_info": {
+          "package_name": "com.option.mipata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821705159877-ghgtgivlrmjq05fcdi59adej25tslkah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpwuv8jDdu0o3IOy26Ht5mb6vjlceSPNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
